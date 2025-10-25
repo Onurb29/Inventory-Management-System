@@ -1,0 +1,14 @@
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/bin/Debug/net9.0/Inventory Management System
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/bin/Debug/net9.0/Inventory Management System.deps.json
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/bin/Debug/net9.0/Inventory Management System.runtimeconfig.json
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/bin/Debug/net9.0/Inventory Management System.dll
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/bin/Debug/net9.0/Inventory Management System.pdb
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.AssemblyInfoInputs.cache
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.AssemblyInfo.cs
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.csproj.CoreCompileInputs.cache
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.dll
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/refint/Inventory Management System.dll
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.pdb
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/Inventory Management System.genruntimeconfig.cache
+/Users/jimmyperron/Documents/7. Education/MS_FullStack/Inventory Management System/obj/Debug/net9.0/ref/Inventory Management System.dll
